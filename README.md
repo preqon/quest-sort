@@ -1,4 +1,5 @@
-Task management tool for personal use (so far).
+Personal task management tool. So far, just for my own use. If you're interested
+in developing this tool for general use, feel free to contact me! 
 
 This modules queries ChatGPT, using a directory of text files, in which
 I manage tasks, as context.
